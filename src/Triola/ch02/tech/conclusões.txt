@@ -1,0 +1,5 @@
+Tanto homens quanto mulheres tem batimentos cardiacos distribuidos de forma mais ou menos normal (como er esperado).
+
+Analisando a média e desvio padrão, dá pra concluir os homens como um todo tem menor frequência de batimentos cardíacos e os ddos são um pouco mais uniformes se comparado com as mulheres.
+
+Os homens - como esperado - tem uma altura média maior que a das mulheres. O desvio padrão é bem próximo, sendo um pouco menor nos homens. Uma coisa interessante é que aqui existe uma proporção considerável de homens com mais de 1,80 m se comparado ao Brasil (suponho que essas pessos sejam dos EUA).

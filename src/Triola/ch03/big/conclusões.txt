@@ -1,0 +1,7 @@
+Uma primeira observção é que o dataset "Births in New York" é aproximadamente 1160 vezes maior que o dataset "Births". Isso pode impactar nos resultados das analises. No senso comum -- assumindo que os datasets sejam tenham os mesmos tipos de dados e nas mesmas proporções -- o dataset com mais registros deveria ter os dados mais precisos. Mas será que isso é verdade?
+
+Analisando os dados de pesos dos recém-nascidos em "Births", ambos os sexos seguem uma distribuição normal inclinada para a direita, aproximadamente, o que era esperado.
+
+Na média, os homens nascem com um peso maior que as mulheres (3272,82 e 3037, 07 respectivamente). Existe mais variação no peso ds mulheres que nos homens. Mulheres também têm menos outliers.
+
+Já analisando a distribuição de frequência do dataset de NY para ambos os sexos, parece que o fato de ter muito mais registros fez o histograma tender ao gráfico da distribuição gussiana em ambos os sexos. As médias e desvio padrão não mudaram muito, como era esperado. As mulheres de NY tem uma média maior que no primeiro dataset e o desvio padrão um pouco menor.

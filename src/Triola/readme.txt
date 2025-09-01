@@ -1,0 +1,1 @@
+Exercícios com dataset no Minitab do livro-texto do Triola.
